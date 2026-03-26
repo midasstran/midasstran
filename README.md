@@ -11,9 +11,19 @@ I'm a **first-year Computer Science student** passionate about building software
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,vscode,linux,github,gmail" />
+    <img src="https://skillicons.dev/icons?i=c,python,vscode,github,gmail" />
   </a>
 </p>
+
+---
+
+### 🐍 My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/midasstran/midasstran/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/midasstran/midasstran/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/midasstran/midasstran/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 

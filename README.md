@@ -8,5 +8,5 @@
 
 | My GitHub Stats | Top Languages |
 | :---: | :---: |
-| ![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight) |
+| ![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight&cache_bust=1) |
 

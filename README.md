@@ -31,7 +31,7 @@ I'm a **first-year Computer Science student** passionate about building software
 
 | **My GitHub Stats** | **Top Languages** |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight&count_private=true&cache_bust=0) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight&cache_bust=0) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight&count_private=true&cache_bust=1) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight&cache_bust=1) |
 
 ---
 

@@ -31,14 +31,14 @@ I'm a **first-year Computer Science student** passionate about building software
 
 | **My GitHub Stats** | **Top Languages** |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight&count_private=true&cache_bust=1) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight&cache_bust=1) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight&count_private=true&cache_bust=0) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight&cache_bust=0) |
 
 ---
 
 ### 📬 How to reach me:
 <p align="left">
   <a href="mailto:tt06112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/minh-trung-trần-96032b38a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/midasstran"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 

@@ -50,4 +50,3 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 
 ---
 
-*“The best way to predict the future is to invent it.”* 🚀

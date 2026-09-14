@@ -34,6 +34,13 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 
 ---
 
+### 🔥 GitHub Streak & Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midasstran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📬 How to reach me:
 <p align="left">
   <a href="mailto:tt06112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

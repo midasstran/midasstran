@@ -34,14 +34,6 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 
 ---
 
-### 📊 My GitHub Statistics
-
-| **My GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=midasstran&show_icons=true&theme=tokyonight&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midasstran&layout=compact&theme=tokyonight) |
-
----
-
 ### 📬 How to reach me:
 <p align="left">
   <a href="mailto:tt06112007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

@@ -35,9 +35,7 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 ---
 
 ### 🔥 GitHub Streak & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midasstran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=midasstran&theme=radical&hide_border=true" alt="GitHub Streak"/> </p>
 
 ---
 

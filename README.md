@@ -11,6 +11,7 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 ### 💻 Core Technical Focus
 * 🦀 **Low-level C**: Deep diving into pointer arithmetic, memory management (`malloc/free`), and data structures.
 * 🐍 **Python & AI**: Exploring Python for Artificial Intelligence and Large Language Model (LLM) fundamentals.
+* 🌐 **API Testing & Automation**: Validating endpoints, handling token-based authentication, and testing with Postman.
 * 🎓 **Academic Foundation**: Studying Discrete Structures and Applied Statistics at IUH.
 
 ---

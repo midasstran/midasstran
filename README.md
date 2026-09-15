@@ -25,11 +25,11 @@ I'm a Computer Science student at the Industrial University of Ho Chi Minh City 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Core Languages & Systems** | `![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white)` |
-| **Backend & APIs** | `![Python](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white)` &nbsp; `![Java (OOP)](https://img.shields.io/badge/JAVA-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)` &nbsp; `![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300B4D8?style=for-the-badge&logo=postman&logoColor=white)` |
-| **Databases** | `![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=sqlite&logoColor=white)` |
-| **ML & Data Science** | `![NumPy](https://img.shields.io/badge/NUMPY-%23013243?style=for-the-badge&logo=numpy&logoColor=white)` &nbsp; `![Pandas](https://img.shields.io/badge/PANDAS-%23150458?style=for-the-badge&logo=pandas&logoColor=white)` &nbsp; `![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%2311557C?style=for-the-badge&logo=python&logoColor=white)` &nbsp; `![SciPy](https://img.shields.io/badge/SCIPY-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white)` |
-| **Tools & Infrastructure** | `![Git](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white)` &nbsp; `![Postman](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)` |
+| **Core Languages & Systems** | ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) |
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; ![Java (OOP)](https://img.shields.io/badge/JAVA-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%2300B4D8?style=for-the-badge&logo=postman&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **ML & Data Science** | ![NumPy](https://img.shields.io/badge/NUMPY-%23013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/PANDAS-%23150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-%2311557C?style=for-the-badge&logo=python&logoColor=white) &nbsp; ![SciPy](https://img.shields.io/badge/SCIPY-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white) |
+| **Tools & Infrastructure** | ![Git](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Postman](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ### 📬 How to reach me:
 <p align="left">

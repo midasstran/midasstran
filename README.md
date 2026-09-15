@@ -1,10 +1,10 @@
-# Hi there, I'm Trung Tran 👋 (midasstran)
+# Hi there, I'm Trung Minh Tran 👋 (midasstran)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=midasstran&label=Profile%20views&color=0e75b6&style=flat" alt="midasstran" />
 </p>
 
-I'm a Computer Science student at the Industrial University of Ho Chi Minh City (IUH). I began my programming journey in September 2025. Currently, I am dedicated to mastering the core fundamentals of software engineering to pursue my career as an **AI Application Engineer**.
+I'm a Computer Science student at the Industrial University of Ho Chi Minh City (IUH). I am dedicated to mastering the core fundamentals of software engineering to pursue my career as an **AI Application Engineer**.
 
 ---
 
